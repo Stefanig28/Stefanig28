@@ -1,4 +1,3 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=👋Hi%20there%20I´m%20Stefani%20Torres&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <h2 align="left">Hi 👋! My name is Stefani and I'm a backend developer.</h2>
 
